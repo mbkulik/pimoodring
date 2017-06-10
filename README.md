@@ -3,7 +3,7 @@
 This project is the capstone project for Picademy Providence 2017. This project is meant to 
 run on a RaspberryPi. It may install and run on other systems, YMMV
 
-##setup
+## setup
 
 Install the required python packages.
 

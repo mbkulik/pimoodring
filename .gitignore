@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#
+# custom ignores
+#
+nltk_data/
+keys.py
